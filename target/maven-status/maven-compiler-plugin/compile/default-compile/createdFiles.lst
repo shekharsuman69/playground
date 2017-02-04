@@ -1,0 +1,10 @@
+com\xxx\mapper\GoogleResponseMapper.class
+com\xxx\util\MapType.class
+com\xxx\register\InterfaceRegister.class
+com\xxx\util\GConstants.class
+com\xxx\mapper\MapQuestResponseMapper.class
+com\xxx\mapper\ResponseMapper.class
+com\xxx\util\CommonUtil.class
+com\xxx\mapper\BingResponseMapper.class
+com\xxx\vo\GeoRequest.class
+com\xxx\exceptions\InvalidInputException.class
